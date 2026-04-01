@@ -26,7 +26,7 @@ mcq_generator/
 ## Installation
 
 1. Clone the repository:
-   git clone [(https://github.com/Ganlak/mcqgenerator.git)]
+   git clone [(https://github.com/singhkrish2006/mcqgenerator.git)]
 
 2. Navigate to the project directory:
    cd mcq_generator
